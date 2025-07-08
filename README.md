@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rihika</h1>
+<h1 align="center">Hi, I'm Rihika</h1>
 <h3 align="center">Aspiring Software Developer | Frontend Enthusiast | Lifelong Learner</h3>
 
 ---
@@ -34,17 +34,17 @@
 ---
 
 📂 **Highlighted Projects**
-<!--> _All projects available in my repositories — check the pinned section below!-->
+<!-- > _All projects available in my repositories — check the pinned section below! -->
 
-- 🔗 [**Portfolio Website**](https://github.com/rihika/portfolio)
+- 🔗 [**Portfolio Website**]
   - Developed with React, styled with SCSS
   - Mobile responsive and deployed on Netlify
 
-- 🌤️ [**Weather App**](https://github.com/rihika/weather-app)
+- 🌤️ [**Weather App**]
   - React + OpenWeatherMap API integration
   - Clean UI and state management using hooks
 
-- 📝 [**Blog App**](https://github.com/rihika/blog-app)
+- 📝 [**Blog App**]
   - Built a full-stack blog with authentication using MERN stack
   - Features post creation, edit/delete, and user sessions
 
