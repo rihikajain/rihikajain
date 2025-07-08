@@ -34,7 +34,7 @@
 ---
 
 📂 **Highlighted Projects**
-> _All projects available in my repositories — check the pinned section below!_
+<!--> _All projects available in my repositories — check the pinned section below!-->
 
 - 🔗 [**Portfolio Website**](https://github.com/rihika/portfolio)
   - Developed with React, styled with SCSS
@@ -50,14 +50,6 @@
 
 ---
 
-📈 **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rihika&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rihika&theme=default" />
-</p>
-
----
-
 📚 **Learning & Practicing**
 - 💻 Regularly push practice projects, bug fixes, and small experiments
 - 🧠 Solve DSA problems and document learnings in dedicated repos
@@ -66,8 +58,8 @@
 ---
 
 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rihikajain)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)-->
 
 ---
 
