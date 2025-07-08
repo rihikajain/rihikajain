@@ -58,8 +58,9 @@
 ---
 
 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rihikajain)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rihikajain)  
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com) -->
 
 ---
 
