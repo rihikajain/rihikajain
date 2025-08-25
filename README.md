@@ -33,7 +33,7 @@
 
 ---
 
-# 📂 **Highlighted Projects**
+📂 **Highlighted Projects**
 
 > _All projects available in my repositories — check the pinned section below!_
 
