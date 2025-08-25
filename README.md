@@ -33,20 +33,24 @@
 
 ---
 
-📂 **Highlighted Projects**
-<!-- > _All projects available in my repositories — check the pinned section below! -->
+# 📂 Highlighted Projects
 
-- 🔗 **Portfolio Website**
-  - Developed with React, styled with SCSS
-  - Mobile responsive and deployed on Netlify
+> _All projects available in my repositories — check the pinned section below!_
 
-- 🌤️ **Weather App**
-  - React + OpenWeatherMap API integration
-  - Clean UI and state management using hooks
+- 🔗 **Email Receiving Chain & ESP Detection System**  
+  - Full-stack email analysis system using React, NestJS, and MongoDB  
+  - Identifies email receiving chain and ESP type from incoming emails  
+  - Responsive UI with clean dashboard and API backend  
 
-- 📝 **Blog App**
-  - Built a full-stack blog with authentication using MERN stack
-  - Features post creation, edit/delete, and user sessions
+- 🔗 **URL Shortener**  
+  - Shorten long URLs into clean, shareable links  
+  - Built with React frontend and Node.js backend  
+
+- 🔗 **Portfolio Website**  
+  - Developed with React and styled with SCSS  
+  - Showcases projects, skills, and contact details  
+
+---
 
 ---
 
