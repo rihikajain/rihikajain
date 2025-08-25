@@ -5,7 +5,7 @@
 
 🌱 **About Me**
 - 🎓 Recent Computer Science graduate with a strong foundation in web development
-- 👩‍💻 Completed a 6-month frontend internship at **Xebia**, working with React and REST APIs
+- 👩‍💻 Completed a 8-month frontend internship at **Xebia**, working with React and REST APIs
 - 🧩 Practicing through real-world projects and open-source contributions
 - 🌐 Passionate about building user-focused, scalable, and accessible web applications
 - 📚 Continuously learning modern tools like TypeScript, Next.js, and Git workflows
@@ -25,7 +25,7 @@
 ---
 
 💼 **Experience**
-- 🏢 **Frontend Intern at Xebia** (6 months)
+- 🏢 **Frontend Intern at Xebia** (8 months)
   - Built responsive UI components using React.js and SCSS
   - Integrated RESTful APIs to display dynamic data
   - Participated in Agile sprints and collaborated in cross-functional teams
